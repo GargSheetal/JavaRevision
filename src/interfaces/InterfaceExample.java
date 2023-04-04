@@ -3,7 +3,7 @@ package interfaces;
 interface TestInterface
 {
 	int a=10;	// by default variable is static and final
-	void display();		// abstract method
+	void display();		// by default public and abstract method
 }
 
 
